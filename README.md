@@ -8,7 +8,7 @@ Simpan notebook dan kedua dataset dalam satu folder agar pemanggilan file pada n
 
 ```text
 Project-B15/
-├── Proyek_Kelompok_7(1).ipynb
+├── Proyek_Kelompok_7.ipynb
 ├── GDSC_DATASET.csv
 └── CCLE_RNAseq_rsem_genes_tpm_20180929.txt.gz
 ```
@@ -56,7 +56,7 @@ Notebook menggunakan pustaka utama berikut:
    jupyter notebook
    ```
 
-4. Buka `Proyek_Kelompok_7(1).ipynb`.
+4. Buka `Proyek_Kelompok_7.ipynb`.
 5. Pilih kernel Python dari environment yang sudah dipasangi pustaka.
 6. Jalankan sel secara berurutan dari bagian paling atas sampai paling bawah (**Run All** atau `Shift + Enter` per sel).
 
